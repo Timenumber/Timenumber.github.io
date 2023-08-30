@@ -1,2 +1,2 @@
 # Timenumber.github.io
-# This is Timenumber's HomePage Responsery
+# This is Timenumber's HomePage Responsitory
