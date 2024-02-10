@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 时数
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shu Shi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shu
+last_name: Shi
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Science & Technology of China
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
