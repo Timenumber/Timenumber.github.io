@@ -67,17 +67,17 @@ skills:
       - name: Running
         description: ''
         percent: 100
-        icon: person-hiking
+        icon: person-running
         icon_pack: fas
-      - name: Running
+      - name: Badminton
         description: ''
         percent: 100
-        icon: cat
+        icon: badminton
         icon_pack: fas
-      - name: Photography
+      - name: Hiking
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: person-hiking
         icon_pack: fas
 
 # Social/Academic Networking
@@ -88,18 +88,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Timenumber
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
