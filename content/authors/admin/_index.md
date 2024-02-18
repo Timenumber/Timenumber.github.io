@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Junior
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,8 @@ organizations:
     url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artificial Intelligence and Computer System.
+
 
 # Interests to show in About widget
 interests:
@@ -37,7 +38,7 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: University of Science & Technology of China
-      year: 2008
+      year: 2021 - present
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,12 +64,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Badminton
+      - name: Running
         description: ''
         percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Run
+      - name: Running
         description: ''
         percent: 100
         icon: cat
@@ -113,6 +114,6 @@ social:
 highlight_name: true
 ---
 
-$\qquad$ I am currently a junior student at the School for the Gifted Young, University of Science and Technology of China, majoring in Computer Science.
+I am currently a junior student at the School for the Gifted Young, University of Science and Technology of China, majoring in Computer Science.
 
 {style="text-align: justify;"}
