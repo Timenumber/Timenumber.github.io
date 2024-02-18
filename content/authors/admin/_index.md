@@ -50,9 +50,9 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -72,7 +72,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: badminton
+        icon: shuttlecock
         icon_pack: fas
       - name: Hiking
         description: ''
