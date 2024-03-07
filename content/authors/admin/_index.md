@@ -19,6 +19,7 @@ superuser: true
 # Role/position/tagline
 role: Junior
 
+#Mail Address
 Mail: sshi@mail.ustc.edu.cn
 
 # Organizations/Affiliations to show in About widget
@@ -90,7 +91,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:sshi@mail.ustc.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
