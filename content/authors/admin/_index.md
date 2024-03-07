@@ -19,10 +19,12 @@ superuser: true
 # Role/position/tagline
 role: Junior
 
+Mail: sshi@mail.ustc.edu.cn
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Science & Technology of China
-    url: https://www.ustc.edu.cn/
+    url: https://en.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Machine Learning, Natural Language Processing and Computer System.
@@ -30,7 +32,8 @@ bio: My research interests include Machine Learning, Natural Language Processing
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
   - Computer System
 
 # Education to show in About widget
