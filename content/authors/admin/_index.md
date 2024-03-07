@@ -25,7 +25,7 @@ organizations:
     url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence and Computer System.
+bio: My research interests include Machine Learning, Natural Language Processing and Computer System.
 
 
 # Interests to show in About widget
@@ -38,7 +38,7 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: University of Science & Technology of China
-      year: 2021 - present
+      year: 2021 - Now
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
