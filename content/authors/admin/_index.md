@@ -3,7 +3,7 @@
 title: 时数
 
 # Name pronunciation (optional)
-name_pronunciation: Shi Shu
+name_pronunciation: Shi. Shu
 
 # Full name (for SEO)
 first_name: Shu
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Junior
+role: Senior
 
 #Mail Address
 Mail: sshi@mail.ustc.edu.cn
@@ -28,14 +28,14 @@ organizations:
     url: https://en.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Natural Language Processing and Computer System.
+bio: My research interests mainly focusing on Distributed System and Machine Learning, especially in constructing efficient LLM-serving system.
 
 
 # Interests to show in About widget
 interests:
+  - Distributed System
   - Machine Learning
-  - Natural Language Processing
-  - Computer System
+  - MLsys
 
 # Education to show in About widget
 education:
@@ -106,7 +106,7 @@ social:
     link: https://github.com/Timenumber
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shushi2005/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -118,6 +118,6 @@ social:
 highlight_name: true
 ---
 
-I am currently a junior student at the School for the Gifted Young, University of Science and Technology of China, majoring in Computer Science.
+I'm currently a senior student at the School for the Gifted Young, University of Science and Technology of China, majoring in Computer Science.
 
 {style="text-align: justify;"}
