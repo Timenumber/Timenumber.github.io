@@ -28,7 +28,8 @@ organizations:
     url: https://en.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests mainly focusing on Distributed System and Machine Learning, especially in constructing efficient LLM-serving system.\n **Explanation of my name**: **Shi**(时/時, simplified/traditional chinese,  means time) is my last name, composed with ri(日, means sun),  cun(寸, means a bit) and tu(土, means soil or ground). So the explaination of **Time(时/時)** is, the shadow of the **Sun(日)** moves **a Bit(寸)** on the **Ground(土)**.
+bio: My research interests mainly focusing on Distributed System and Machine Learning, especially in constructing efficient LLM-serving system. \n Explanation of my name: Number Time.
+# **Explanation of my name**: **Shi**(时/時, simplified/traditional chinese,  means time) is my last name, composed with ri(日, means sun),  cun(寸, means a bit) and tu(土, means soil or ground). So the explaination of **Time(时/時)** is, the shadow of the **Sun(日)** moves **a Bit(寸)** on the **Ground(土)**.
 
 
 
